@@ -1,0 +1,15 @@
+html{
+    background-image: url("C:\Users\Carlos\Pictures\rayo-tormenta-truenos-fondo-oscuro-cielo-nublado-noche_35927-190.jpg");
+ background: rgb(28, 112, 222);
+}
+P{
+    color: blue;
+}
+h1{
+    font-family: "PEOPLE BOOK.otf";
+    font-size: 40px;
+    background: blueviolet;
+    text-align: center;
+}
+
+
